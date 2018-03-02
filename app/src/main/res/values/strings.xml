@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multi-Layout APP</string>
+
+    <string name="edt_ans_hint">something just think a lot</string>
+    <string name="txtV_res_text">This is your result!!!</string>
+    <string name="btn_send_text">Send Ans</string>
+    <string name="btn_clr_text">Clear Ans</string>
+
+    <string name="result_correct">Yeah!!!!</string>
+    <string name="result_incorrect">Empty!! incorrect</string>
+</resources>

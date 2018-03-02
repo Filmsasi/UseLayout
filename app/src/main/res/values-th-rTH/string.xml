@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">หลายหน้านิ APP</string>
+
+    <string name="edt_ans_hint">ทายสิว่าฉันอยากให้คุณตอบอะไร</string>
+    <string name="txtV_res_text">นี่คือคำตอบของคุณ!!!</string>
+    <string name="ส่งคำตอบ">Send Ans</string>
+    <string name="ล้างคำตอบ">Clear Ans</string>
+
+    <string name="result_correct">หมันแล้ว ๆ !!!</string>
+    <string name="result_incorrect">ไม่ใช่แล้วว ๆ !!!</string>
+</resources>
